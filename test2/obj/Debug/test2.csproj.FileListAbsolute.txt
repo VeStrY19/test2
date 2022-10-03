@@ -1,0 +1,12 @@
+C:\Users\Steve\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\Steve\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\Steve\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.pdb
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.Setting.resources
+C:\Users\Steve\source\repos\test2\test2\obj\Debug\test2.Jouer.resources
